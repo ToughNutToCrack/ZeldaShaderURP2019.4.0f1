@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: f01a7c51db8f88a459324759aacbde82
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Link Champion-Mt_Armcover_116_001
+    second: {fileID: 2100000, guid: 6b59f115af0a8eb4c855c6dc607cccd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Link Champion-Mt_Belt_A
+    second: {fileID: 2100000, guid: 2114598b3e24b884bb0e82f51f3cb442, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Link Champion-Mt_Belt_B_116
+    second: {fileID: 2100000, guid: 6f3e9d7b5f4c3e44e99cb66cef8a077e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Link Champion-Mt_Belt_C
+    second: {fileID: 2100000, guid: f2e9884ce8ba5bb47bd9421a41cb7aef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Link Champion-Mt_Earring
+    second: {fileID: 2100000, guid: 2d3c0e0812e693e46a3f8c3983f283dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Link Champion-Mt_Eyeball_L
+    second: {fileID: 2100000, guid: 77656e1eda57ea746b28891b79fa9798, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Link Champion-Mt_Eyeball_R
+    second: {fileID: 2100000, guid: 98601fba22ccf0a468eee94aabed3d14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Link Champion-Mt_Eyelashes
+    second: {fileID: 2100000, guid: 743b6a8c456592c4fa0a406c605b8d94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Link Champion-Mt_Gauntlets_116
+    second: {fileID: 2100000, guid: 10a3c3ed17787074a8afc8c5a3241fc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Link Champion-Mt_Glove_116
+    second: {fileID: 2100000, guid: 3c60554480ed084469fbe32e28c8b12e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Link Champion-Mt_Hairband
+    second: {fileID: 2100000, guid: 3a4a7f6fc5ff95148b4e757bf889fdf6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Link Champion-Mt_Head
+    second: {fileID: 2100000, guid: 116d40554f3ea724faa673e81f186dfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Link Champion-Mt_Lower_001
+    second: {fileID: 2100000, guid: 7e4db9aea6e6ea04f88b89a079d309fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Link Champion-Mt_Tunic_116_001
+    second: {fileID: 2100000, guid: 32cc7ee96b9fe4240ad24b056f7fbed4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Link Champion-Mt_UnderShirts_116_001
+    second: {fileID: 2100000, guid: 391eb0c4de77ea542aebe12f9a4c9317, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Link Champion-Mt_Upper_Skin
+    second: {fileID: 2100000, guid: 6e95ff72db61b31438588a25dfd031f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: weapon_Sheath_070_alb
+    second: {fileID: 2100000, guid: 54036cd47f2c9a34ea05b8f3caaabb2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: weapon_shield_030_alb
+    second: {fileID: 2100000, guid: 525736b70ab24644b914f54cf02be77b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: weapon_sword_070_alb
+    second: {fileID: 2100000, guid: a3ce7743d9348474ca11f7afa42bae01, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
